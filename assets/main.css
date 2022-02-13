@@ -105,6 +105,10 @@ footer {
   color: white;
 }
 
+.fc-link {
+  color: #69a297;
+}
+
 .fs-bold {
   font-style: bold;
 }
